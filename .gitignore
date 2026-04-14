@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+*.db
+*.db-journal
+node_modules/
+.vite/
+dashboard/dist/
+.DS_Store

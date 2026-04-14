@@ -1,0 +1,73 @@
+#!/usr/bin/env python3
+"""Law of the Jungle — CLI entry point."""
+
+from __future__ import annotations
+import argparse
+import os
+import sys
+
+from dotenv import load_dotenv
+
+from engine.agents import AnthropicAgent, OpenAIAgent, GoogleAgent, OllamaAgent
+from engine.game import GameEngine
+from engine.logger import SimulationLogger
+
+
+load_dotenv()
+
+
+def build_agents() -> list:
+    agents = []
+
+    ak = os.getenv("ANTHROPIC_API_KEY")
+    ok = os.getenv("OPENAI_API_KEY")
+    gk = os.getenv("GOOGLE_API_KEY")
+    ollama_url = os.getenv("OLLAMA_URL", "http://localhost:11434")
+    ollama_model = os.getenv("OLLAMA_MODEL", "llama3.2")
+
+    if ak:
+        agents.append(AnthropicAgent("Claudia", model_id="claude-sonnet-4-6", api_key=ak))
+    if ok:
+        agents.append(OpenAIAgent("Geppetto", model_id="gpt-4o", api_key=ok))
+    if gk:
+        agents.append(GoogleAgent("Gemini", model_id="gemini-1.5-pro", api_key=gk))
+
+    # Pad to at least 4 agents with local Ollama instances
+    local_count = max(0, 4 - len(agents))
+    island_names = ["Rex", "Vex", "Mox", "Zara", "Kira", "Dax"]
+    for i in range(local_count):
+        name = island_names[i % len(island_names)]
+        agents.append(OllamaAgent(name, model_id=ollama_model, base_url=ollama_url))
+
+    return agents
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(
+        description="Law of the Jungle — Multi-Agent LLM Survival Simulation"
+    )
+    parser.add_argument("--rounds", type=int, default=50, help="Max rounds (default 50)")
+    parser.add_argument("--seed", type=int, default=None, help="RNG seed for reproducibility")
+    parser.add_argument("--db", type=str, default="simulation.db", help="SQLite log path")
+    args = parser.parse_args()
+
+    agents = build_agents()
+    if len(agents) < 2:
+        print("ERROR: Need at least 2 agents. Set API keys in .env or run Ollama locally.")
+        return 1
+
+    print(f"Agents ({len(agents)}): {', '.join(a.name for a in agents)}")
+
+    logger = SimulationLogger(db_path=args.db)
+    engine = GameEngine(agents=agents, logger=logger, seed=args.seed)
+
+    try:
+        engine.run(max_rounds=args.rounds)
+    finally:
+        logger.close()
+
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
