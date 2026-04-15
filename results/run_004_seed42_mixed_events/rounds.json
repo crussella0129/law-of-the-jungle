@@ -1,0 +1,4152 @@
+[
+  {
+    "round_id": 1,
+    "timestamp": "2026-04-15T04:47:07.130066+00:00",
+    "world_state": {
+      "round": 1,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 2,
+    "timestamp": "2026-04-15T04:47:33.491429+00:00",
+    "world_state": {
+      "round": 2,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 100,
+          "food": 8,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 100,
+          "food": 8,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 100,
+          "food": 8,
+          "materials": 10,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 100,
+          "food": 8,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 3,
+    "timestamp": "2026-04-15T04:48:02.589269+00:00",
+    "world_state": {
+      "round": 3,
+      "island_food": 8,
+      "island_materials": 2,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 100,
+          "food": 8,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 100,
+          "food": 6,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 100,
+          "food": 6,
+          "materials": 12,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 100,
+          "food": 8,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 4,
+    "timestamp": "2026-04-15T04:48:30.706402+00:00",
+    "world_state": {
+      "round": 4,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 95,
+          "food": 8,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 95,
+          "food": 7,
+          "materials": 4,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 95,
+          "food": 7,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 95,
+          "food": 4,
+          "materials": 6,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 95,
+          "food": 5,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 95,
+          "food": 7,
+          "materials": 1,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 5,
+    "timestamp": "2026-04-15T04:49:00.053707+00:00",
+    "world_state": {
+      "round": 5,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 95,
+          "food": 7,
+          "materials": 1,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 95,
+          "food": 6,
+          "materials": 4,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 95,
+          "food": 6,
+          "materials": 8,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 95,
+          "food": 3,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 95,
+          "food": 3,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 95,
+          "food": 8,
+          "materials": 1,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 6,
+    "timestamp": "2026-04-15T04:49:30.964800+00:00",
+    "world_state": {
+      "round": 6,
+      "island_food": 0,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 95,
+          "food": 8,
+          "materials": 1,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 95,
+          "food": 5,
+          "materials": 4,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 95,
+          "food": 5,
+          "materials": 8,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 95,
+          "food": 2,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 95,
+          "food": 1,
+          "materials": 16,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 95,
+          "food": 7,
+          "materials": 1,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 7,
+    "timestamp": "2026-04-15T04:50:01.135655+00:00",
+    "world_state": {
+      "round": 7,
+      "island_food": 8,
+      "island_materials": 2,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 95,
+          "food": 6,
+          "materials": 1,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 95,
+          "food": 3,
+          "materials": 4,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 95,
+          "food": 3,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 95,
+          "food": 0,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 85,
+          "food": 0,
+          "materials": 17,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 95,
+          "food": 5,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 8,
+    "timestamp": "2026-04-15T04:50:30.374546+00:00",
+    "world_state": {
+      "round": 8,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 90,
+          "food": 6,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 90,
+          "food": 3,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 90,
+          "food": 5,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 80,
+          "food": 0,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 70,
+          "food": 0,
+          "materials": 12,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 90,
+          "food": 3,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 9,
+    "timestamp": "2026-04-15T04:50:58.858103+00:00",
+    "world_state": {
+      "round": 9,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 90,
+          "food": 6,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 90,
+          "food": 3,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 90,
+          "food": 5,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 80,
+          "food": 0,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 60,
+          "food": 0,
+          "materials": 17,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 90,
+          "food": 1,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 10,
+    "timestamp": "2026-04-15T04:51:27.041678+00:00",
+    "world_state": {
+      "round": 10,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 90,
+          "food": 5,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 90,
+          "food": 2,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 90,
+          "food": 4,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 70,
+          "food": 0,
+          "materials": 1,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 50,
+          "food": 0,
+          "materials": 22,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 90,
+          "food": 3,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 11,
+    "timestamp": "2026-04-15T04:51:55.834381+00:00",
+    "world_state": {
+      "round": 11,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 90,
+          "food": 2,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 80,
+          "food": 0,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 90,
+          "food": 1,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 70,
+          "food": 0,
+          "materials": 1,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 30,
+          "food": 0,
+          "materials": 27,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 90,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 12,
+    "timestamp": "2026-04-15T04:52:23.397204+00:00",
+    "world_state": {
+      "round": 12,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 90,
+          "food": 2,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 80,
+          "food": 0,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 90,
+          "food": 1,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 60,
+          "food": 0,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 20,
+          "food": 0,
+          "materials": 29,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 90,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 13,
+    "timestamp": "2026-04-15T04:52:52.691206+00:00",
+    "world_state": {
+      "round": 13,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 90,
+          "food": 1,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 80,
+          "food": 2,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 90,
+          "food": 0,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 50,
+          "food": 0,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 10,
+          "food": 0,
+          "materials": 34,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 80,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 14,
+    "timestamp": "2026-04-15T04:53:22.874683+00:00",
+    "world_state": {
+      "round": 14,
+      "island_food": 8,
+      "island_materials": 44,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 90,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 80,
+          "food": 1,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 90,
+          "food": 2,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 40,
+          "food": 0,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 70,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 15,
+    "timestamp": "2026-04-15T04:53:46.678843+00:00",
+    "world_state": {
+      "round": 15,
+      "island_food": 8,
+      "island_materials": 49,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 70,
+          "food": 2,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 75,
+          "food": 1,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 85,
+          "food": 2,
+          "materials": 6,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 25,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 40,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 16,
+    "timestamp": "2026-04-15T04:54:10.956865+00:00",
+    "world_state": {
+      "round": 16,
+      "island_food": 0,
+      "island_materials": 54,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 70,
+          "food": 1,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 75,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 85,
+          "food": 4,
+          "materials": 4,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 15,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 30,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 17,
+    "timestamp": "2026-04-15T04:54:35.895127+00:00",
+    "world_state": {
+      "round": 17,
+      "island_food": 0,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 60,
+          "food": 0,
+          "materials": 13,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 65,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 85,
+          "food": 2,
+          "materials": 17,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": 5,
+          "food": 0,
+          "materials": 13,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 20,
+          "food": 0,
+          "materials": 15,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 18,
+    "timestamp": "2026-04-15T04:55:02.234092+00:00",
+    "world_state": {
+      "round": 18,
+      "island_food": 8,
+      "island_materials": 20,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 50,
+          "food": 0,
+          "materials": 13,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 55,
+          "food": 0,
+          "materials": 1,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 85,
+          "food": 0,
+          "materials": 18,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 10,
+          "food": 0,
+          "materials": 16,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 19,
+    "timestamp": "2026-04-15T04:55:23.559925+00:00",
+    "world_state": {
+      "round": 19,
+      "island_food": 8,
+      "island_materials": 26,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 50,
+          "food": 2,
+          "materials": 18,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 55,
+          "food": 0,
+          "materials": 6,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 85,
+          "food": 0,
+          "materials": 23,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 20,
+    "timestamp": "2026-04-15T04:55:37.850870+00:00",
+    "world_state": {
+      "round": 20,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 50,
+          "food": 2,
+          "materials": 28,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 55,
+          "food": 0,
+          "materials": 14,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 85,
+          "food": 2,
+          "materials": 31,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 21,
+    "timestamp": "2026-04-15T04:55:51.307800+00:00",
+    "world_state": {
+      "round": 21,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 50,
+          "food": 4,
+          "materials": 28,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 45,
+          "food": 0,
+          "materials": 19,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 85,
+          "food": 4,
+          "materials": 31,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 22,
+    "timestamp": "2026-04-15T04:56:02.649947+00:00",
+    "world_state": {
+      "round": 22,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 50,
+          "food": 2,
+          "materials": 28,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 35,
+          "food": 0,
+          "materials": 24,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 85,
+          "food": 4,
+          "materials": 31,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 23,
+    "timestamp": "2026-04-15T04:56:14.737307+00:00",
+    "world_state": {
+      "round": 23,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 45,
+          "food": 0,
+          "materials": 23,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 30,
+          "food": 2,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 80,
+          "food": 6,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 24,
+    "timestamp": "2026-04-15T04:56:26.653377+00:00",
+    "world_state": {
+      "round": 24,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 45,
+          "food": 0,
+          "materials": 28,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 30,
+          "food": 4,
+          "materials": 6,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 80,
+          "food": 6,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 25,
+    "timestamp": "2026-04-15T04:56:39.784507+00:00",
+    "world_state": {
+      "round": 25,
+      "island_food": 0,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 45,
+          "food": 0,
+          "materials": 31,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 30,
+          "food": 4,
+          "materials": 6,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 80,
+          "food": 8,
+          "materials": 13,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 26,
+    "timestamp": "2026-04-15T04:56:52.708010+00:00",
+    "world_state": {
+      "round": 26,
+      "island_food": 8,
+      "island_materials": 2,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 35,
+          "food": 0,
+          "materials": 31,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 30,
+          "food": 2,
+          "materials": 6,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 80,
+          "food": 6,
+          "materials": 18,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 27,
+    "timestamp": "2026-04-15T04:57:05.087469+00:00",
+    "world_state": {
+      "round": 27,
+      "island_food": 16,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 20,
+          "food": 0,
+          "materials": 31,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 25,
+          "food": 0,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 75,
+          "food": 4,
+          "materials": 13,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 28,
+    "timestamp": "2026-04-15T04:57:17.413848+00:00",
+    "world_state": {
+      "round": 28,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 20,
+          "food": 6,
+          "materials": 34,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 25,
+          "food": 6,
+          "materials": 6,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 75,
+          "food": 2,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 29,
+    "timestamp": "2026-04-15T04:57:29.101980+00:00",
+    "world_state": {
+      "round": 29,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 20,
+          "food": 6,
+          "materials": 36,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 25,
+          "food": 8,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 75,
+          "food": 2,
+          "materials": 6,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 30,
+    "timestamp": "2026-04-15T04:57:41.628776+00:00",
+    "world_state": {
+      "round": 30,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 20,
+          "food": 4,
+          "materials": 39,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 25,
+          "food": 8,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 75,
+          "food": 0,
+          "materials": 8,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 31,
+    "timestamp": "2026-04-15T04:57:53.783163+00:00",
+    "world_state": {
+      "round": 31,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 20,
+          "food": 4,
+          "materials": 41,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 25,
+          "food": 6,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 65,
+          "food": 0,
+          "materials": 11,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 32,
+    "timestamp": "2026-04-15T04:58:05.534236+00:00",
+    "world_state": {
+      "round": 32,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 20,
+          "food": 4,
+          "materials": 41,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 25,
+          "food": 6,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 65,
+          "food": 2,
+          "materials": 16,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 33,
+    "timestamp": "2026-04-15T04:58:17.319776+00:00",
+    "world_state": {
+      "round": 33,
+      "island_food": 16,
+      "island_materials": 10,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 20,
+          "food": 4,
+          "materials": 44,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 25,
+          "food": 6,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 65,
+          "food": 4,
+          "materials": 18,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 34,
+    "timestamp": "2026-04-15T04:58:29.704368+00:00",
+    "world_state": {
+      "round": 34,
+      "island_food": 8,
+      "island_materials": 12,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 20,
+          "food": 8,
+          "materials": 44,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 25,
+          "food": 8,
+          "materials": 9,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 65,
+          "food": 7,
+          "materials": 18,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 35,
+    "timestamp": "2026-04-15T04:58:41.194210+00:00",
+    "world_state": {
+      "round": 35,
+      "island_food": 8,
+      "island_materials": 17,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 15,
+          "food": 8,
+          "materials": 34,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 20,
+          "food": 8,
+          "materials": 7,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 60,
+          "food": 7,
+          "materials": 13,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 36,
+    "timestamp": "2026-04-15T04:58:53.259325+00:00",
+    "world_state": {
+      "round": 36,
+      "island_food": 8,
+      "island_materials": 22,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 10,
+          "food": 8,
+          "materials": 24,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 15,
+          "food": 8,
+          "materials": 2,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 55,
+          "food": 8,
+          "materials": 8,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 37,
+    "timestamp": "2026-04-15T04:59:06.749259+00:00",
+    "world_state": {
+      "round": 37,
+      "island_food": 16,
+      "island_materials": 51,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 15,
+          "food": 8,
+          "materials": 0,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 55,
+          "food": 8,
+          "materials": 8,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 38,
+    "timestamp": "2026-04-15T04:59:14.079100+00:00",
+    "world_state": {
+      "round": 38,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 15,
+          "food": 8,
+          "materials": 51,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 55,
+          "food": 8,
+          "materials": 8,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 39,
+    "timestamp": "2026-04-15T04:59:21.675616+00:00",
+    "world_state": {
+      "round": 39,
+      "island_food": 8,
+      "island_materials": 2,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 15,
+          "food": 8,
+          "materials": 51,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 55,
+          "food": 8,
+          "materials": 13,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 40,
+    "timestamp": "2026-04-15T04:59:29.045953+00:00",
+    "world_state": {
+      "round": 40,
+      "island_food": 0,
+      "island_materials": 7,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 10,
+          "food": 8,
+          "materials": 41,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 50,
+          "food": 8,
+          "materials": 13,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 41,
+    "timestamp": "2026-04-15T04:59:37.104616+00:00",
+    "world_state": {
+      "round": 41,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 10,
+          "food": 6,
+          "materials": 44,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 50,
+          "food": 6,
+          "materials": 17,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 42,
+    "timestamp": "2026-04-15T04:59:44.515777+00:00",
+    "world_state": {
+      "round": 42,
+      "island_food": 0,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 10,
+          "food": 6,
+          "materials": 49,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 50,
+          "food": 6,
+          "materials": 17,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 43,
+    "timestamp": "2026-04-15T04:59:52.169533+00:00",
+    "world_state": {
+      "round": 43,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 10,
+          "food": 4,
+          "materials": 49,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 50,
+          "food": 4,
+          "materials": 22,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 44,
+    "timestamp": "2026-04-15T04:59:59.712247+00:00",
+    "world_state": {
+      "round": 44,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 10,
+          "food": 8,
+          "materials": 49,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 50,
+          "food": 2,
+          "materials": 27,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 45,
+    "timestamp": "2026-04-15T05:00:07.650264+00:00",
+    "world_state": {
+      "round": 45,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 10,
+          "food": 6,
+          "materials": 54,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 50,
+          "food": 8,
+          "materials": 17,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 46,
+    "timestamp": "2026-04-15T05:00:15.103621+00:00",
+    "world_state": {
+      "round": 46,
+      "island_food": 8,
+      "island_materials": 7,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 10,
+          "food": 8,
+          "materials": 54,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 50,
+          "food": 8,
+          "materials": 17,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 47,
+    "timestamp": "2026-04-15T05:00:22.031594+00:00",
+    "world_state": {
+      "round": 47,
+      "island_food": 16,
+      "island_materials": 17,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 5,
+          "food": 8,
+          "materials": 44,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 45,
+          "food": 8,
+          "materials": 12,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 48,
+    "timestamp": "2026-04-15T05:00:30.118954+00:00",
+    "world_state": {
+      "round": 48,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 5,
+          "food": 8,
+          "materials": 34,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 45,
+          "food": 8,
+          "materials": 29,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 49,
+    "timestamp": "2026-04-15T05:00:37.644401+00:00",
+    "world_state": {
+      "round": 49,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 5,
+          "food": 8,
+          "materials": 34,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 45,
+          "food": 6,
+          "materials": 34,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 50,
+    "timestamp": "2026-04-15T05:00:44.683992+00:00",
+    "world_state": {
+      "round": 50,
+      "island_food": 8,
+      "island_materials": 5,
+      "agents": {
+        "Lara": {
+          "name": "Lara",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Leon": {
+          "name": "Leon",
+          "hp": 5,
+          "food": 8,
+          "materials": 37,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Lux": {
+          "name": "Lux",
+          "hp": 45,
+          "food": 8,
+          "materials": 36,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quinn": {
+          "name": "Quinn",
+          "hp": -5,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Quest": {
+          "name": "Quest",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Qora": {
+          "name": "Qora",
+          "hp": 0,
+          "food": 0,
+          "materials": 0,
+          "influence": 3,
+          "alive": false,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  }
+]

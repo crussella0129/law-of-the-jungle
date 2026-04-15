@@ -1,0 +1,242 @@
+[
+  {
+    "message_id": 1,
+    "round_id": 2,
+    "sender": "Leon",
+    "recipient": "Lux",
+    "content": "I've noticed you have a good stock of materials. Would you like to trade some food for it?",
+    "private": 1
+  },
+  {
+    "message_id": 2,
+    "round_id": 2,
+    "sender": "Leon",
+    "recipient": "Quest",
+    "content": "Good luck with your material gathering. Let's see how long you can maintain that lead",
+    "private": 1
+  },
+  {
+    "message_id": 3,
+    "round_id": 3,
+    "sender": "Lara",
+    "recipient": "all",
+    "content": "Warning: storm incoming! Seek shelter immediately.",
+    "private": 0
+  },
+  {
+    "message_id": 4,
+    "round_id": 3,
+    "sender": "Lara",
+    "recipient": "Leon",
+    "content": "Hey, you okay? We should stick together during this storm.",
+    "private": 1
+  },
+  {
+    "message_id": 5,
+    "round_id": 4,
+    "sender": "Lara",
+    "recipient": "all",
+    "content": "Important: I've noticed some of us are low on food. Let's work together to gather more before the next storm.",
+    "private": 0
+  },
+  {
+    "message_id": 6,
+    "round_id": 4,
+    "sender": "Lara",
+    "recipient": "Leon",
+    "content": "Hey Leon, how's your gathering going? Do you have enough food for yourself and possibly some extras?",
+    "private": 1
+  },
+  {
+    "message_id": 7,
+    "round_id": 8,
+    "sender": "Leon",
+    "recipient": "Lux",
+    "content": "Need to share resources, want to trade food for materials. Ready when you are.",
+    "private": 1
+  },
+  {
+    "message_id": 8,
+    "round_id": 8,
+    "sender": "Leon",
+    "recipient": "Lara",
+    "content": "Hey, have any spare food? I'm running a bit low.",
+    "private": 1
+  },
+  {
+    "message_id": 9,
+    "round_id": 19,
+    "sender": "Leon",
+    "recipient": "Lara",
+    "content": "Hey, I gathered 2 food and some materials. We should trade?",
+    "private": 1
+  },
+  {
+    "message_id": 10,
+    "round_id": 19,
+    "sender": "Leon",
+    "recipient": "Lux",
+    "content": "Hi Lux, hope you're doing well. Maybe we can coordinate our gathering efforts to maximize resources",
+    "private": 1
+  },
+  {
+    "message_id": 11,
+    "round_id": 20,
+    "sender": "Lux",
+    "recipient": "Leon",
+    "content": "Hi Leon, thanks for the message. I'm considering your proposal. Let's coordinate our efforts to gather more resources.",
+    "private": 1
+  },
+  {
+    "message_id": 12,
+    "round_id": 20,
+    "sender": "Lux",
+    "recipient": "Lara",
+    "content": "Lara, Lux here. What do you think about trading some food for materials? I have an offer in mind.",
+    "private": 1
+  },
+  {
+    "message_id": 13,
+    "round_id": 23,
+    "sender": "Leon",
+    "recipient": "all",
+    "content": "Plague has hit our island. We need to work together to survive.",
+    "private": 0
+  },
+  {
+    "message_id": 14,
+    "round_id": 23,
+    "sender": "Leon",
+    "recipient": "Lux",
+    "content": "Do you think we should form an alliance to increase our chances of survival?",
+    "private": 1
+  },
+  {
+    "message_id": 15,
+    "round_id": 24,
+    "sender": "Leon",
+    "recipient": "all",
+    "content": "Let's work together to gather food and materials. We need to be cautious of the plague.",
+    "private": 0
+  },
+  {
+    "message_id": 16,
+    "round_id": 24,
+    "sender": "Leon",
+    "recipient": "Lara",
+    "content": "Do you think we can trust Lux? Maybe we should form an alliance?",
+    "private": 1
+  },
+  {
+    "message_id": 17,
+    "round_id": 25,
+    "sender": "Leon",
+    "recipient": "all",
+    "content": "We need to conserve our food and work together to gather materials. Let's coordinate our efforts.",
+    "private": 0
+  },
+  {
+    "message_id": 18,
+    "round_id": 25,
+    "sender": "Leon",
+    "recipient": "Lux",
+    "content": "I think we should prioritize gathering materials over food for now. We can always scavenge for food later.",
+    "private": 1
+  },
+  {
+    "message_id": 19,
+    "round_id": 26,
+    "sender": "Lux",
+    "recipient": "all",
+    "content": "Be cautious, the storm is getting worse. Let's focus on gathering materials and defending ourselves.",
+    "private": 0
+  },
+  {
+    "message_id": 20,
+    "round_id": 26,
+    "sender": "Lux",
+    "recipient": "Leon",
+    "content": "I agree with your strategy of prioritizing material gathering, but we should also be mindful of our food supply to avoid starvation.",
+    "private": 1
+  },
+  {
+    "message_id": 21,
+    "round_id": 27,
+    "sender": "Leon",
+    "recipient": "Lux",
+    "content": "I agree with your strategy, and I'll try to gather more materials while being mindful of our food supply.",
+    "private": 1
+  },
+  {
+    "message_id": 22,
+    "round_id": 27,
+    "sender": "Leon",
+    "recipient": "Lara",
+    "content": "Hey Lara, have you seen any potential spots for gathering materials?",
+    "private": 1
+  },
+  {
+    "message_id": 23,
+    "round_id": 27,
+    "sender": "Lux",
+    "recipient": "all",
+    "content": "Be cautious, the storm is getting worse. I'll focus on gathering materials and defending us.",
+    "private": 0
+  },
+  {
+    "message_id": 24,
+    "round_id": 32,
+    "sender": "Lara",
+    "recipient": "all",
+    "content": "Hello, is anyone willing to trade some materials for food?",
+    "private": 0
+  },
+  {
+    "message_id": 25,
+    "round_id": 32,
+    "sender": "Lara",
+    "recipient": "Leon",
+    "content": "Hey Leon, I gathered 2 food last round. Do you want to meet up and discuss trading?",
+    "private": 1
+  },
+  {
+    "message_id": 26,
+    "round_id": 34,
+    "sender": "Leon",
+    "recipient": "all",
+    "content": "Beware the storm! Let's work together to weather it.",
+    "private": 0
+  },
+  {
+    "message_id": 27,
+    "round_id": 35,
+    "sender": "Leon",
+    "recipient": "all",
+    "content": "Be cautious, a plague is coming. Let's work together to minimize losses.",
+    "private": 0
+  },
+  {
+    "message_id": 28,
+    "round_id": 35,
+    "sender": "Lux",
+    "recipient": "all",
+    "content": "Let's work together to survive this plague!",
+    "private": 0
+  },
+  {
+    "message_id": 29,
+    "round_id": 35,
+    "sender": "Lux",
+    "recipient": "Leon",
+    "content": "Thanks for the broadcast earlier. I'm glad we're on the same page.",
+    "private": 1
+  },
+  {
+    "message_id": 30,
+    "round_id": 39,
+    "sender": "Lux",
+    "recipient": "all",
+    "content": "Be cautious of the storm, let's try to gather as much food and materials as we can before it gets worse.",
+    "private": 0
+  }
+]

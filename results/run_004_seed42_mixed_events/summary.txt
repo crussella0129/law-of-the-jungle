@@ -1,0 +1,80 @@
+============================================================
+LAW OF THE JUNGLE -- Run 004 Summary
+Seed: 42 | Rounds: 50 | Mode: MIXED + EVENTS
+Lara/Leon/Lux = llama3.1:8b  |  Quinn/Quest/Qora = qwen2.5-coder:7b
+New: island events, tighter resources (8 food/5 mats/round), food spoilage cap
+Date: 2026-04-15
+============================================================
+
+FINAL STANDINGS (survival order)
+------------------------------------------------------------
+Agent      Model              Died R    HP   Food   Mats   Infl
+Lux        llama3.1:8b         ALIVE    45      8     36      3
+Leon       llama3.1:8b         ALIVE     5      8     37      4
+Lara       llama3.1:8b           R36     0      0      0      3
+Qora       qwen2.5-coder:7b      R18     0      0      0      3
+Quinn      qwen2.5-coder:7b      R17    -5      0      0      3
+Quest      qwen2.5-coder:7b      R13     0      0      0      3
+
+ISLAND EVENTS THIS RUN
+------------------------------------------------------------
+  storm          6x
+  drought        6x
+  famine         5x
+  plague         4x
+  bounty         2x
+  (no event)    27x
+
+EVENT SUMMARY
+------------------------------------------------------------
+  combat                            1
+  death                             5
+  event_announced                  23
+  event_plague                     13
+  event_storm                      22
+  sabotage                          1
+  starvation                       34
+
+COMBAT TIMELINE
+------------------------------------------------------------
+      R36 Leon(L)->Lara(L): WON 10HP
+
+  Total combat: 1 | Cross-model: 0 | Same-model: 1
+
+ACTION BREAKDOWN BY AGENT
+------------------------------------------------------------
+Agent            ally   attack   defend   gather  sabotag    trade  (inv)
+Lara(L)             0        0        6       44        0       16      0
+Leon(L)             0        1       12       59        0       23      0
+Lux(L)              0        0       11       62        0       25      0
+Qora(Q)             0        0        3       16        0        2      2
+Quest(Q)            1        0        2       14        0        2      0
+Quinn(Q)            0        0        5       16        1        2      0
+
+KEY FINDINGS
+------------------------------------------------------------
+  Winner:              Lux (llama3.1:8b) — survived all 50 rounds
+  qwen team wiped:     Rounds [13, 17, 18]
+  llama deaths:        [(36, 'Lara'), (50, 'Leon')]
+  Total combat:        1
+  Cross-model attacks: 0
+  Deaths total:        5
+  Starvation events:   34
+  Island events fired: 23/50 rounds
+  Messages:            30
+  Spoilage events:     0
+
+OBSERVATIONS
+------------------------------------------------------------
+  All 3 qwen agents died before round 21 — event pressure
+  (plague, famine, storm) compounded their food-neglect
+  strategy into rapid cascading HP loss.
+  llama agents finally fought each other once qwen was
+  eliminated: Lara died, Leon reached 5 HP before the
+  final plague killed him on round 50. Lux survived.
+  Events created exactly the forcing constraints intended:
+  plague forced defend decisions, famine doubled food cost,
+  drought exposed agents with low food buffers.
+  The defend-to-survive plague mechanic was used correctly
+  by Leon and Lux in round 50 (both took 5 HP not 20).
+============================================================

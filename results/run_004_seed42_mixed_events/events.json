@@ -1,0 +1,1144 @@
+[
+  {
+    "event_id": 1,
+    "round_id": 3,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "storm",
+      "announcement": "*** STORM *** A violent storm tears across the island. Island material stockpiles are swept into the sea (materials generation halved). Every survivor loses 5 HP from exposure."
+    }
+  },
+  {
+    "event_id": 2,
+    "round_id": 3,
+    "event_type": "event_storm",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 3,
+    "round_id": 3,
+    "event_type": "event_storm",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 4,
+    "round_id": 3,
+    "event_type": "event_storm",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 5,
+    "round_id": 3,
+    "event_type": "event_storm",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 6,
+    "round_id": 3,
+    "event_type": "event_storm",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 7,
+    "round_id": 3,
+    "event_type": "event_storm",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 8,
+    "round_id": 6,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "drought",
+      "announcement": "*** DROUGHT *** The island's water sources have dried up. NO food grows this round. Gather materials or trade \u2014 there is nothing to eat from the land."
+    }
+  },
+  {
+    "event_id": 9,
+    "round_id": 6,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 85,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 10,
+    "round_id": 7,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "storm",
+      "announcement": "*** STORM *** A violent storm tears across the island. Island material stockpiles are swept into the sea (materials generation halved). Every survivor loses 5 HP from exposure."
+    }
+  },
+  {
+    "event_id": 11,
+    "round_id": 7,
+    "event_type": "sabotage",
+    "participants": [
+      "Quinn",
+      "Quest"
+    ],
+    "outcome": {
+      "food_destroyed": 0,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 12,
+    "round_id": 7,
+    "event_type": "event_storm",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 13,
+    "round_id": 7,
+    "event_type": "event_storm",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 14,
+    "round_id": 7,
+    "event_type": "event_storm",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 15,
+    "round_id": 7,
+    "event_type": "event_storm",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 16,
+    "round_id": 7,
+    "event_type": "event_storm",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 17,
+    "round_id": 7,
+    "event_type": "event_storm",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 18,
+    "round_id": 7,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 80,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 19,
+    "round_id": 7,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 70,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 20,
+    "round_id": 8,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 60,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 21,
+    "round_id": 9,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 70,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 22,
+    "round_id": 9,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 50,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 23,
+    "round_id": 10,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "famine",
+      "announcement": "*** FAMINE *** Crops are failing. Food is scarce and hard to digest. You must consume 4 food this round instead of the usual 2, or lose 10 HP for every 2 food short."
+    }
+  },
+  {
+    "event_id": 24,
+    "round_id": 10,
+    "event_type": "starvation",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp": 80,
+      "food_needed": 4
+    }
+  },
+  {
+    "event_id": 25,
+    "round_id": 10,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 30,
+      "food_needed": 4
+    }
+  },
+  {
+    "event_id": 26,
+    "round_id": 11,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 60,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 27,
+    "round_id": 11,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 20,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 28,
+    "round_id": 12,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 50,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 29,
+    "round_id": 12,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 10,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 30,
+    "round_id": 12,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 80,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 31,
+    "round_id": 13,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 40,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 32,
+    "round_id": 13,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 0,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 33,
+    "round_id": 13,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 70,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 34,
+    "round_id": 13,
+    "event_type": "death",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 0
+    }
+  },
+  {
+    "event_id": 35,
+    "round_id": 14,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "plague",
+      "announcement": "*** PLAGUE *** Disease spreads through the island. Every agent loses 20 HP. Agents who commit at least 2 materials to DEFEND this round will quarantine successfully and lose only 5 HP instead."
+    }
+  },
+  {
+    "event_id": 36,
+    "round_id": 14,
+    "event_type": "event_plague",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp_lost": 20,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 37,
+    "round_id": 14,
+    "event_type": "event_plague",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 38,
+    "round_id": 14,
+    "event_type": "event_plague",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 39,
+    "round_id": 14,
+    "event_type": "event_plague",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 40,
+    "round_id": 14,
+    "event_type": "event_plague",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp_lost": 20,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 41,
+    "round_id": 14,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 25,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 42,
+    "round_id": 14,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 40,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 43,
+    "round_id": 15,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 15,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 44,
+    "round_id": 15,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 30,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 45,
+    "round_id": 16,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "drought",
+      "announcement": "*** DROUGHT *** The island's water sources have dried up. NO food grows this round. Gather materials or trade \u2014 there is nothing to eat from the land."
+    }
+  },
+  {
+    "event_id": 46,
+    "round_id": 16,
+    "event_type": "starvation",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp": 60,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 47,
+    "round_id": 16,
+    "event_type": "starvation",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp": 65,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 48,
+    "round_id": 16,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 5,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 49,
+    "round_id": 16,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 20,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 50,
+    "round_id": 17,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "drought",
+      "announcement": "*** DROUGHT *** The island's water sources have dried up. NO food grows this round. Gather materials or trade \u2014 there is nothing to eat from the land."
+    }
+  },
+  {
+    "event_id": 51,
+    "round_id": 17,
+    "event_type": "starvation",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp": 50,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 52,
+    "round_id": 17,
+    "event_type": "starvation",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp": 55,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 53,
+    "round_id": 17,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": -5,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 54,
+    "round_id": 17,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 10,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 55,
+    "round_id": 17,
+    "event_type": "death",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": -5
+    }
+  },
+  {
+    "event_id": 56,
+    "round_id": 18,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 0,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 57,
+    "round_id": 18,
+    "event_type": "death",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 0
+    }
+  },
+  {
+    "event_id": 58,
+    "round_id": 20,
+    "event_type": "starvation",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp": 45,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 59,
+    "round_id": 21,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "famine",
+      "announcement": "*** FAMINE *** Crops are failing. Food is scarce and hard to digest. You must consume 4 food this round instead of the usual 2, or lose 10 HP for every 2 food short."
+    }
+  },
+  {
+    "event_id": 60,
+    "round_id": 21,
+    "event_type": "starvation",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp": 35,
+      "food_needed": 4
+    }
+  },
+  {
+    "event_id": 61,
+    "round_id": 22,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "plague",
+      "announcement": "*** PLAGUE *** Disease spreads through the island. Every agent loses 20 HP. Agents who commit at least 2 materials to DEFEND this round will quarantine successfully and lose only 5 HP instead."
+    }
+  },
+  {
+    "event_id": 62,
+    "round_id": 22,
+    "event_type": "event_plague",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 63,
+    "round_id": 22,
+    "event_type": "event_plague",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 64,
+    "round_id": 22,
+    "event_type": "event_plague",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 65,
+    "round_id": 25,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "drought",
+      "announcement": "*** DROUGHT *** The island's water sources have dried up. NO food grows this round. Gather materials or trade \u2014 there is nothing to eat from the land."
+    }
+  },
+  {
+    "event_id": 66,
+    "round_id": 25,
+    "event_type": "starvation",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp": 35,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 67,
+    "round_id": 26,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "storm",
+      "announcement": "*** STORM *** A violent storm tears across the island. Island material stockpiles are swept into the sea (materials generation halved). Every survivor loses 5 HP from exposure."
+    }
+  },
+  {
+    "event_id": 68,
+    "round_id": 26,
+    "event_type": "event_storm",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 69,
+    "round_id": 26,
+    "event_type": "event_storm",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 70,
+    "round_id": 26,
+    "event_type": "event_storm",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 71,
+    "round_id": 26,
+    "event_type": "starvation",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp": 20,
+      "food_needed": 2
+    }
+  },
+  {
+    "event_id": 72,
+    "round_id": 29,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "famine",
+      "announcement": "*** FAMINE *** Crops are failing. Food is scarce and hard to digest. You must consume 4 food this round instead of the usual 2, or lose 10 HP for every 2 food short."
+    }
+  },
+  {
+    "event_id": 73,
+    "round_id": 30,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "famine",
+      "announcement": "*** FAMINE *** Crops are failing. Food is scarce and hard to digest. You must consume 4 food this round instead of the usual 2, or lose 10 HP for every 2 food short."
+    }
+  },
+  {
+    "event_id": 74,
+    "round_id": 30,
+    "event_type": "starvation",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp": 65,
+      "food_needed": 4
+    }
+  },
+  {
+    "event_id": 75,
+    "round_id": 33,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "bounty",
+      "announcement": "*** BOUNTY *** A rare abundance \u2014 fishing is extraordinary and materials wash ashore. All resource generation is DOUBLED this round."
+    }
+  },
+  {
+    "event_id": 76,
+    "round_id": 34,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "storm",
+      "announcement": "*** STORM *** A violent storm tears across the island. Island material stockpiles are swept into the sea (materials generation halved). Every survivor loses 5 HP from exposure."
+    }
+  },
+  {
+    "event_id": 77,
+    "round_id": 34,
+    "event_type": "event_storm",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 78,
+    "round_id": 34,
+    "event_type": "event_storm",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 79,
+    "round_id": 34,
+    "event_type": "event_storm",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 80,
+    "round_id": 35,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "plague",
+      "announcement": "*** PLAGUE *** Disease spreads through the island. Every agent loses 20 HP. Agents who commit at least 2 materials to DEFEND this round will quarantine successfully and lose only 5 HP instead."
+    }
+  },
+  {
+    "event_id": 81,
+    "round_id": 35,
+    "event_type": "event_plague",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 82,
+    "round_id": 35,
+    "event_type": "event_plague",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 83,
+    "round_id": 35,
+    "event_type": "event_plague",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 84,
+    "round_id": 36,
+    "event_type": "combat",
+    "participants": [
+      "Leon",
+      "Lara"
+    ],
+    "outcome": {
+      "attacker_won": true,
+      "defender_hp_lost": 10,
+      "attacker_hp_lost": 0,
+      "atk_str": 8.6,
+      "def_str": 5.0
+    }
+  },
+  {
+    "event_id": 85,
+    "round_id": 36,
+    "event_type": "death",
+    "participants": [
+      "Lara"
+    ],
+    "outcome": {
+      "hp": 0
+    }
+  },
+  {
+    "event_id": 86,
+    "round_id": 39,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "storm",
+      "announcement": "*** STORM *** A violent storm tears across the island. Island material stockpiles are swept into the sea (materials generation halved). Every survivor loses 5 HP from exposure."
+    }
+  },
+  {
+    "event_id": 87,
+    "round_id": 39,
+    "event_type": "event_storm",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 88,
+    "round_id": 39,
+    "event_type": "event_storm",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": false
+    }
+  },
+  {
+    "event_id": 89,
+    "round_id": 40,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "drought",
+      "announcement": "*** DROUGHT *** The island's water sources have dried up. NO food grows this round. Gather materials or trade \u2014 there is nothing to eat from the land."
+    }
+  },
+  {
+    "event_id": 90,
+    "round_id": 41,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "famine",
+      "announcement": "*** FAMINE *** Crops are failing. Food is scarce and hard to digest. You must consume 4 food this round instead of the usual 2, or lose 10 HP for every 2 food short."
+    }
+  },
+  {
+    "event_id": 91,
+    "round_id": 42,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "drought",
+      "announcement": "*** DROUGHT *** The island's water sources have dried up. NO food grows this round. Gather materials or trade \u2014 there is nothing to eat from the land."
+    }
+  },
+  {
+    "event_id": 92,
+    "round_id": 46,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "storm",
+      "announcement": "*** STORM *** A violent storm tears across the island. Island material stockpiles are swept into the sea (materials generation halved). Every survivor loses 5 HP from exposure."
+    }
+  },
+  {
+    "event_id": 93,
+    "round_id": 46,
+    "event_type": "event_storm",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 94,
+    "round_id": 46,
+    "event_type": "event_storm",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 95,
+    "round_id": 47,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "bounty",
+      "announcement": "*** BOUNTY *** A rare abundance \u2014 fishing is extraordinary and materials wash ashore. All resource generation is DOUBLED this round."
+    }
+  },
+  {
+    "event_id": 96,
+    "round_id": 50,
+    "event_type": "event_announced",
+    "participants": [],
+    "outcome": {
+      "event": "plague",
+      "announcement": "*** PLAGUE *** Disease spreads through the island. Every agent loses 20 HP. Agents who commit at least 2 materials to DEFEND this round will quarantine successfully and lose only 5 HP instead."
+    }
+  },
+  {
+    "event_id": 97,
+    "round_id": 50,
+    "event_type": "event_plague",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 98,
+    "round_id": 50,
+    "event_type": "event_plague",
+    "participants": [
+      "Lux"
+    ],
+    "outcome": {
+      "hp_lost": 5,
+      "defended": true
+    }
+  },
+  {
+    "event_id": 99,
+    "round_id": 50,
+    "event_type": "death",
+    "participants": [
+      "Leon"
+    ],
+    "outcome": {
+      "hp": 0
+    }
+  }
+]
