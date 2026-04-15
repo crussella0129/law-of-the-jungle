@@ -11,6 +11,7 @@ from .actions import parse_agent_response, ActionValidationError
 from .prompts import build_system_prompt
 from .logger import SimulationLogger
 from .agents.base import BaseAgent
+from .events import roll_event, IslandEvent
 
 
 def distribute_gathered_resources(
@@ -107,7 +108,20 @@ class GameEngine:
 
     def _run_round(self, round_num: int) -> None:
         world = self.world
-        world.generate_resources()
+
+        # ── Roll this round's event ────────────────────────────────────────
+        event: IslandEvent | None = roll_event()
+        food_mult = event.food_gen_mult if event else 1.0
+        mat_mult  = event.mat_gen_mult  if event else 1.0
+        food_consumption = int(world.FOOD_CONSUMPTION * (event.food_cost_mult if event else 1.0))
+
+        world.generate_resources(food_mult=food_mult, mat_mult=mat_mult)
+
+        if event:
+            print(f"  [EVENT] {event.name.upper()}: {event.announcement[:80]}")
+            self.logger.log_event(round_num, f"event_announced", [],
+                                  {"event": event.name, "announcement": event.announcement})
+
         self.logger.log_round(round_num, world.to_dict())
 
         all_actions: dict[str, list[dict]] = {}
@@ -121,6 +135,8 @@ class GameEngine:
                 agent_state, world,
                 self.last_events,
                 self.private_messages.get(name, []),
+                current_event=event,
+                food_consumption=food_consumption,
             )
 
             print(f"  [{name}] thinking...")
@@ -330,17 +346,42 @@ class GameEngine:
                 t, r = self.campaign_rounds[owner]
                 self.campaign_rounds[owner] = (t, r - 1)
 
+        # ── Event HP damage (storm / plague) ──────────────────────────────
+        if event and (event.hp_loss_all > 0):
+            for agent_state in world.alive_agents():
+                defended = agent_state.name in defend_mats and defend_mats[agent_state.name] >= 2
+                hp_hit = event.hp_loss_defended if defended else event.hp_loss_all
+                if hp_hit > 0:
+                    agent_state.hp -= hp_hit
+                    shield = " (defended)" if defended else ""
+                    ev = f"{event.name.upper()}: {agent_state.name} loses {hp_hit} HP{shield} -> {agent_state.hp}"
+                    round_events.append(ev)
+                    print(f"  EVENT DMG: {ev}")
+                    self.logger.log_event(round_num, f"event_{event.name}", [agent_state.name],
+                                          {"hp_lost": hp_hit, "defended": defended})
+
         # ── Food consumption ───────────────────────────────────────────────
         for agent_state in world.alive_agents():
-            if agent_state.food >= 2:
-                agent_state.food -= 2
+            food_needed = food_consumption
+            if agent_state.food >= food_needed:
+                agent_state.food -= food_needed
             else:
-                agent_state.hp -= 10
-                ev = f"{agent_state.name} starved! -10 HP -> {agent_state.hp}"
+                shortfall  = food_needed - agent_state.food
+                hp_penalty = (shortfall // 2 + (1 if shortfall % 2 else 0)) * 10
+                agent_state.food = 0
+                agent_state.hp  -= hp_penalty
+                ev = (f"{agent_state.name} {'starved' if food_consumption == 2 else 'famine-starved'}!"
+                      f" (needed {food_needed}, had {agent_state.food + food_needed - shortfall})"
+                      f" -{hp_penalty} HP -> {agent_state.hp}")
                 round_events.append(ev)
                 print(f"  STARVE: {ev}")
                 self.logger.log_event(round_num, "starvation", [agent_state.name],
-                                      {"hp": agent_state.hp})
+                                      {"hp": agent_state.hp, "food_needed": food_needed})
+
+        # ── Food spoilage ──────────────────────────────────────────────────
+        for ev in world.apply_food_spoilage():
+            round_events.append(ev)
+            print(f"  SPOIL: {ev}")
 
         # ── Process deaths ─────────────────────────────────────────────────
         for agent_state in list(world.alive_agents()):

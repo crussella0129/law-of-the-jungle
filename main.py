@@ -55,7 +55,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(
         description="Law of the Jungle -- Multi-Agent LLM Survival Simulation"
     )
-    parser.add_argument("--rounds", type=int, default=50, help="Max rounds (default 50)")
+    parser.add_argument("--rounds", type=int, default=50, help="Max rounds (default 50, recommend 50+ with events)")
     parser.add_argument("--seed",   type=int, default=None, help="RNG seed for reproducibility")
     parser.add_argument("--db",     type=str, default="simulation.db", help="SQLite log path")
     parser.add_argument("--mixed",  action="store_true",

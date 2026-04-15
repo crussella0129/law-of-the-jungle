@@ -43,17 +43,35 @@ class WorldState:
     island_food: int = 0
     island_materials: int = 0
 
-    # Base per-round island resource generation
-    FOOD_PER_ROUND: int = 12
-    MATERIALS_PER_ROUND: int = 8
+    # Base per-round island resource generation.
+    # 8 food for 6 agents needing 12/round = genuine scarcity.
+    FOOD_PER_ROUND: int = 8
+    MATERIALS_PER_ROUND: int = 5
+
+    # Food spoilage cap: excess food above this per-agent threshold rots.
+    FOOD_SPOILAGE_CAP: int = 8
+
+    # Base food consumption per round (can be multiplied by famine events).
+    FOOD_CONSUMPTION: int = 2
 
     def alive_agents(self) -> list[AgentState]:
         return [a for a in self.agents.values() if a.alive]
 
-    def generate_resources(self) -> None:
-        """Add per-round resources to the island pool."""
-        self.island_food += self.FOOD_PER_ROUND
-        self.island_materials += self.MATERIALS_PER_ROUND
+    def generate_resources(self, food_mult: float = 1.0, mat_mult: float = 1.0) -> None:
+        """Add per-round resources to the island pool, scaled by event multipliers."""
+        self.island_food      += int(self.FOOD_PER_ROUND * food_mult)
+        self.island_materials += int(self.MATERIALS_PER_ROUND * mat_mult)
+
+    def apply_food_spoilage(self) -> list[str]:
+        """Cap each agent's food at FOOD_SPOILAGE_CAP. Return spoilage event strings."""
+        events = []
+        for agent in self.alive_agents():
+            cap = self.FOOD_SPOILAGE_CAP
+            if agent.food > cap:
+                lost = agent.food - cap
+                agent.food = cap
+                events.append(f"{agent.name}'s food stockpile spoiled ({lost} units rotted)")
+        return events
 
     def scatter_death_resources(self, agent: AgentState) -> None:
         """Return a dead agent's resources to the island pool."""
