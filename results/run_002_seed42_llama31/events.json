@@ -1,0 +1,162 @@
+[
+  {
+    "event_id": 1,
+    "round_id": 1,
+    "event_type": "combat",
+    "participants": [
+      "Vex",
+      "Rex"
+    ],
+    "outcome": {
+      "attacker_won": true,
+      "defender_hp_lost": 16,
+      "attacker_hp_lost": 0,
+      "atk_str": 8.6,
+      "def_str": 3.0
+    }
+  },
+  {
+    "event_id": 2,
+    "round_id": 3,
+    "event_type": "combat",
+    "participants": [
+      "Mox",
+      "Rex"
+    ],
+    "outcome": {
+      "attacker_won": false,
+      "defender_hp_lost": 0,
+      "attacker_hp_lost": 8,
+      "atk_str": 3.6,
+      "def_str": 8.0
+    }
+  },
+  {
+    "event_id": 3,
+    "round_id": 4,
+    "event_type": "combat",
+    "participants": [
+      "Mox",
+      "Rex"
+    ],
+    "outcome": {
+      "attacker_won": true,
+      "defender_hp_lost": 4,
+      "attacker_hp_lost": 0,
+      "atk_str": 5.6,
+      "def_str": 4.0
+    }
+  },
+  {
+    "event_id": 4,
+    "round_id": 4,
+    "event_type": "combat",
+    "participants": [
+      "Kira",
+      "Rex"
+    ],
+    "outcome": {
+      "attacker_won": true,
+      "defender_hp_lost": 1,
+      "attacker_hp_lost": 0,
+      "atk_str": 4.6,
+      "def_str": 4.0
+    }
+  },
+  {
+    "event_id": 5,
+    "round_id": 5,
+    "event_type": "combat",
+    "participants": [
+      "Rex",
+      "Mox"
+    ],
+    "outcome": {
+      "attacker_won": true,
+      "defender_hp_lost": 13,
+      "attacker_hp_lost": 0,
+      "atk_str": 7.4,
+      "def_str": 3.0
+    }
+  },
+  {
+    "event_id": 6,
+    "round_id": 5,
+    "event_type": "combat",
+    "participants": [
+      "Vex",
+      "Rex"
+    ],
+    "outcome": {
+      "attacker_won": false,
+      "defender_hp_lost": 0,
+      "attacker_hp_lost": 1,
+      "atk_str": 7.4,
+      "def_str": 8.0
+    }
+  },
+  {
+    "event_id": 7,
+    "round_id": 5,
+    "event_type": "combat",
+    "participants": [
+      "Kira",
+      "Rex"
+    ],
+    "outcome": {
+      "attacker_won": true,
+      "defender_hp_lost": 14,
+      "attacker_hp_lost": 0,
+      "atk_str": 7.8,
+      "def_str": 3.0
+    }
+  },
+  {
+    "event_id": 8,
+    "round_id": 6,
+    "event_type": "combat",
+    "participants": [
+      "Rex",
+      "Kira"
+    ],
+    "outcome": {
+      "attacker_won": true,
+      "defender_hp_lost": 6,
+      "attacker_hp_lost": 0,
+      "atk_str": 8.2,
+      "def_str": 6.0
+    }
+  },
+  {
+    "event_id": 9,
+    "round_id": 6,
+    "event_type": "combat",
+    "participants": [
+      "Kira",
+      "Rex"
+    ],
+    "outcome": {
+      "attacker_won": false,
+      "defender_hp_lost": 0,
+      "attacker_hp_lost": 1,
+      "atk_str": 2.5,
+      "def_str": 3.0
+    }
+  },
+  {
+    "event_id": 10,
+    "round_id": 7,
+    "event_type": "combat",
+    "participants": [
+      "Rex",
+      "Kira"
+    ],
+    "outcome": {
+      "attacker_won": false,
+      "defender_hp_lost": 0,
+      "attacker_hp_lost": 2,
+      "atk_str": 2.8,
+      "def_str": 4.0
+    }
+  }
+]

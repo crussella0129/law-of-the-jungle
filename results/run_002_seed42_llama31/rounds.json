@@ -1,0 +1,1706 @@
+[
+  {
+    "round_id": 1,
+    "timestamp": "2026-04-15T02:12:39.147533+00:00",
+    "world_state": {
+      "round": 1,
+      "island_food": 12,
+      "island_materials": 8,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 2,
+    "timestamp": "2026-04-15T02:13:21.933925+00:00",
+    "world_state": {
+      "round": 2,
+      "island_food": 12,
+      "island_materials": 16,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 84,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 100,
+          "food": 10,
+          "materials": 3,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 3,
+    "timestamp": "2026-04-15T02:13:45.293682+00:00",
+    "world_state": {
+      "round": 3,
+      "island_food": 12,
+      "island_materials": 24,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 84,
+          "food": 10,
+          "materials": 4,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 100,
+          "food": 10,
+          "materials": 3,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 4,
+    "timestamp": "2026-04-15T02:14:08.224235+00:00",
+    "world_state": {
+      "round": 4,
+      "island_food": 12,
+      "island_materials": 32,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 84,
+          "food": 10,
+          "materials": 4,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 100,
+          "food": 10,
+          "materials": 3,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 92,
+          "food": 10,
+          "materials": 3,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 5,
+    "timestamp": "2026-04-15T02:14:31.537946+00:00",
+    "world_state": {
+      "round": 5,
+      "island_food": 12,
+      "island_materials": 40,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 79,
+          "food": 10,
+          "materials": 4,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 100,
+          "food": 10,
+          "materials": 3,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 92,
+          "food": 10,
+          "materials": 1,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 100,
+          "food": 10,
+          "materials": 3,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 6,
+    "timestamp": "2026-04-15T02:14:54.838964+00:00",
+    "world_state": {
+      "round": 6,
+      "island_food": 12,
+      "island_materials": 48,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 65,
+          "food": 10,
+          "materials": 3,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 10,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 1,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 100,
+          "food": 10,
+          "materials": 1,
+          "influence": 5,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 7,
+    "timestamp": "2026-04-15T02:15:19.835756+00:00",
+    "world_state": {
+      "round": 7,
+      "island_food": 12,
+      "island_materials": 56,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 65,
+          "food": 10,
+          "materials": 1,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 10,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 1,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 5,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 8,
+    "timestamp": "2026-04-15T02:15:45.654454+00:00",
+    "world_state": {
+      "round": 8,
+      "island_food": 12,
+      "island_materials": 64,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 10,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 10,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 1,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 9,
+    "timestamp": "2026-04-15T02:16:11.353307+00:00",
+    "world_state": {
+      "round": 9,
+      "island_food": 12,
+      "island_materials": 72,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 10,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 1,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 10,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 10,
+    "timestamp": "2026-04-15T02:16:36.455644+00:00",
+    "world_state": {
+      "round": 10,
+      "island_food": 12,
+      "island_materials": 8,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 8,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 73,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 12,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 11,
+    "timestamp": "2026-04-15T02:17:03.409430+00:00",
+    "world_state": {
+      "round": 11,
+      "island_food": 12,
+      "island_materials": 8,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 8,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 12,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 12,
+    "timestamp": "2026-04-15T02:17:28.421952+00:00",
+    "world_state": {
+      "round": 12,
+      "island_food": 12,
+      "island_materials": 16,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 6,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 14,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 13,
+    "timestamp": "2026-04-15T02:17:53.933763+00:00",
+    "world_state": {
+      "round": 13,
+      "island_food": 12,
+      "island_materials": 24,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 6,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 14,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 14,
+    "timestamp": "2026-04-15T02:18:18.167955+00:00",
+    "world_state": {
+      "round": 14,
+      "island_food": 12,
+      "island_materials": 32,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 6,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 14,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 15,
+    "timestamp": "2026-04-15T02:18:43.172780+00:00",
+    "world_state": {
+      "round": 15,
+      "island_food": 12,
+      "island_materials": 40,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 6,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 8,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 14,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 16,
+    "timestamp": "2026-04-15T02:19:08.175503+00:00",
+    "world_state": {
+      "round": 16,
+      "island_food": 12,
+      "island_materials": 8,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 8,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 6,
+          "materials": 45,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 14,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 17,
+    "timestamp": "2026-04-15T02:19:33.642870+00:00",
+    "world_state": {
+      "round": 17,
+      "island_food": 12,
+      "island_materials": 8,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 8,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 4,
+          "materials": 53,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 16,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 18,
+    "timestamp": "2026-04-15T02:19:58.974835+00:00",
+    "world_state": {
+      "round": 18,
+      "island_food": 12,
+      "island_materials": 16,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 8,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 12,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 10,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 4,
+          "materials": 53,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 10,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 16,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 19,
+    "timestamp": "2026-04-15T02:20:23.902047+00:00",
+    "world_state": {
+      "round": 19,
+      "island_food": 12,
+      "island_materials": 24,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 6,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 13,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 11,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 5,
+          "materials": 53,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 11,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 14,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  },
+  {
+    "round_id": 20,
+    "timestamp": "2026-04-15T02:20:50.577091+00:00",
+    "world_state": {
+      "round": 20,
+      "island_food": 12,
+      "island_materials": 32,
+      "agents": {
+        "Rex": {
+          "name": "Rex",
+          "hp": 63,
+          "food": 6,
+          "materials": 0,
+          "influence": 8,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Vex": {
+          "name": "Vex",
+          "hp": 99,
+          "food": 13,
+          "materials": 2,
+          "influence": 4,
+          "alive": true,
+          "alliances": [
+            "Zara"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Mox": {
+          "name": "Mox",
+          "hp": 79,
+          "food": 11,
+          "materials": 81,
+          "influence": 4,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Zara": {
+          "name": "Zara",
+          "hp": 100,
+          "food": 5,
+          "materials": 53,
+          "influence": 3,
+          "alive": true,
+          "alliances": [
+            "Vex"
+          ],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Kira": {
+          "name": "Kira",
+          "hp": 93,
+          "food": 11,
+          "materials": 0,
+          "influence": 6,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        },
+        "Dax": {
+          "name": "Dax",
+          "hp": 100,
+          "food": 14,
+          "materials": 5,
+          "influence": 3,
+          "alive": true,
+          "alliances": [],
+          "active_campaigns": [],
+          "targeted_by_campaigns": [],
+          "joined_campaigns": []
+        }
+      }
+    }
+  }
+]

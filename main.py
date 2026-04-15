@@ -23,7 +23,7 @@ def build_agents() -> list:
     ok = os.getenv("OPENAI_API_KEY")
     gk = os.getenv("GOOGLE_API_KEY")
     ollama_url = os.getenv("OLLAMA_URL", "http://localhost:11434")
-    ollama_model = os.getenv("OLLAMA_MODEL", "qwen2.5-coder:7b")
+    ollama_model = os.getenv("OLLAMA_MODEL", "llama3.1:8b")
 
     if ak:
         agents.append(AnthropicAgent("Claudia", model_id="claude-sonnet-4-6", api_key=ak))

@@ -1,0 +1,418 @@
+[
+  {
+    "message_id": 1,
+    "round_id": 1,
+    "sender": "Rex",
+    "recipient": "all",
+    "content": "Hello, everyone. I'm Rex. Let's work together to survive on this island.",
+    "private": 0
+  },
+  {
+    "message_id": 2,
+    "round_id": 1,
+    "sender": "Rex",
+    "recipient": "Vex",
+    "content": "Would you like to trade with me?",
+    "private": 1
+  },
+  {
+    "message_id": 3,
+    "round_id": 1,
+    "sender": "Vex",
+    "recipient": "all",
+    "content": "Be cautious, I will be gathering food and might engage Rex in combat.",
+    "private": 0
+  },
+  {
+    "message_id": 4,
+    "round_id": 2,
+    "sender": "Zara",
+    "recipient": "Rex",
+    "content": "Hi Rex, I'm Zara. Your proposal for cooperation sounds reasonable to me. Maybe we can discuss the terms of our alliance?",
+    "private": 1
+  },
+  {
+    "message_id": 5,
+    "round_id": 4,
+    "sender": "Kira",
+    "recipient": "Vex",
+    "content": "Be careful around Rex, he's been gathering a lot of food.",
+    "private": 1
+  },
+  {
+    "message_id": 6,
+    "round_id": 5,
+    "sender": "Zara",
+    "recipient": "all",
+    "content": "I've noticed Rex and Kira are gaining resources, be cautious.",
+    "private": 0
+  },
+  {
+    "message_id": 7,
+    "round_id": 6,
+    "sender": "Zara",
+    "recipient": "all",
+    "content": "I'll keep gathering food and materials, but I'm considering forming an alliance with someone to counterbalance the growing power of Rex and Kira.",
+    "private": 0
+  },
+  {
+    "message_id": 8,
+    "round_id": 6,
+    "sender": "Kira",
+    "recipient": "all",
+    "content": "Zara, I'll be careful. Rex is getting desperate.",
+    "private": 0
+  },
+  {
+    "message_id": 9,
+    "round_id": 7,
+    "sender": "Vex",
+    "recipient": "all",
+    "content": "Let's all focus on gathering and trading, rather than fighting each other. It will be safer for everyone.",
+    "private": 0
+  },
+  {
+    "message_id": 10,
+    "round_id": 7,
+    "sender": "Vex",
+    "recipient": "Zara",
+    "content": "I'm glad to hear you're considering forming an alliance. Would you consider partnering with me? We could balance out Rex and Kira's power.",
+    "private": 1
+  },
+  {
+    "message_id": 11,
+    "round_id": 7,
+    "sender": "Mox",
+    "recipient": "all",
+    "content": "Be cautious, I've noticed Rex is getting more aggressive.",
+    "private": 0
+  },
+  {
+    "message_id": 12,
+    "round_id": 7,
+    "sender": "Mox",
+    "recipient": "Zara",
+    "content": "I'd be interested in forming an alliance to counterbalance Rex and Kira. Let's discuss further privately.",
+    "private": 1
+  },
+  {
+    "message_id": 13,
+    "round_id": 7,
+    "sender": "Kira",
+    "recipient": "all",
+    "content": "I'll continue to gather resources, but I'm open to discussing alliances that benefit all of us.",
+    "private": 0
+  },
+  {
+    "message_id": 14,
+    "round_id": 8,
+    "sender": "Mox",
+    "recipient": "all",
+    "content": "I'm open to negotiating alliances, but we should also keep our guard up due to Rex's aggression.",
+    "private": 0
+  },
+  {
+    "message_id": 15,
+    "round_id": 8,
+    "sender": "Mox",
+    "recipient": "Rex",
+    "content": "Let's talk about what's going on, I think there might be more to your intentions than meets the eye.",
+    "private": 1
+  },
+  {
+    "message_id": 16,
+    "round_id": 9,
+    "sender": "Rex",
+    "recipient": "all",
+    "content": "I'm open to negotiations, but let's keep the situation calm. I have no intentions of aggression.",
+    "private": 0
+  },
+  {
+    "message_id": 17,
+    "round_id": 9,
+    "sender": "Vex",
+    "recipient": "all",
+    "content": "Mox, I'm interested in forming an alliance with you. Let's discuss the details.",
+    "private": 0
+  },
+  {
+    "message_id": 18,
+    "round_id": 9,
+    "sender": "Mox",
+    "recipient": "Rex",
+    "content": "I'm still open to negotiating an alliance, but I won't trust you until we've had more positive interactions.",
+    "private": 1
+  },
+  {
+    "message_id": 19,
+    "round_id": 9,
+    "sender": "Mox",
+    "recipient": "Kira",
+    "content": "Have you seen any potential threats or opportunities on the island? Let's stay informed.",
+    "private": 1
+  },
+  {
+    "message_id": 20,
+    "round_id": 10,
+    "sender": "Rex",
+    "recipient": "all",
+    "content": "I appreciate Kira's openness to alliance. I'm willing to compromise on materials for a mutually beneficial partnership.",
+    "private": 0
+  },
+  {
+    "message_id": 21,
+    "round_id": 10,
+    "sender": "Rex",
+    "recipient": "Vex",
+    "content": "You're making progress with Mox, but let's keep the peace. I don't want any unnecessary conflicts on our island",
+    "private": 1
+  },
+  {
+    "message_id": 22,
+    "round_id": 10,
+    "sender": "Vex",
+    "recipient": "Mox",
+    "content": "I'm still interested in forming an alliance with you. Let's discuss the details.",
+    "private": 1
+  },
+  {
+    "message_id": 23,
+    "round_id": 10,
+    "sender": "Vex",
+    "recipient": "Rex",
+    "content": "Your words are reassuring, but alliances can be beneficial for all parties involved. I'd like to discuss possible terms of an alliance as well.",
+    "private": 1
+  },
+  {
+    "message_id": 24,
+    "round_id": 10,
+    "sender": "Zara",
+    "recipient": "all",
+    "content": "Let's keep the negotiations calm and open, as Rex suggested. Who's interested in forming a new alliance?",
+    "private": 0
+  },
+  {
+    "message_id": 25,
+    "round_id": 10,
+    "sender": "Dax",
+    "recipient": "all",
+    "content": "I'm willing to listen to proposals and discuss potential alliances.",
+    "private": 0
+  },
+  {
+    "message_id": 26,
+    "round_id": 10,
+    "sender": "Dax",
+    "recipient": "Vex",
+    "content": "Are you looking for a material-based trade or an alliance with mutual benefits?",
+    "private": 1
+  },
+  {
+    "message_id": 27,
+    "round_id": 11,
+    "sender": "Kira",
+    "recipient": "Rex",
+    "content": "I'm interested in forming an alliance. I believe our combined strengths could be beneficial to both parties.",
+    "private": 1
+  },
+  {
+    "message_id": 28,
+    "round_id": 11,
+    "sender": "Kira",
+    "recipient": "Zara",
+    "content": "Your words of caution are appreciated, Zara. I'll strive to keep the negotiations calm and open.",
+    "private": 1
+  },
+  {
+    "message_id": 29,
+    "round_id": 12,
+    "sender": "Rex",
+    "recipient": "Kira",
+    "content": "I'm interested in forming an alliance, I'll discuss it with you further.",
+    "private": 1
+  },
+  {
+    "message_id": 30,
+    "round_id": 12,
+    "sender": "Dax",
+    "recipient": "Zara",
+    "content": "Forming alliances is crucial on this island. Let's discuss possible cooperation.",
+    "private": 1
+  },
+  {
+    "message_id": 31,
+    "round_id": 12,
+    "sender": "Dax",
+    "recipient": "Vex",
+    "content": "Considering your alliance with Zara, I'm open to a mutually beneficial trade or cooperation.",
+    "private": 1
+  },
+  {
+    "message_id": 32,
+    "round_id": 13,
+    "sender": "Dax",
+    "recipient": "all",
+    "content": "I'm looking for a deal. Materials for food is a good start.",
+    "private": 0
+  },
+  {
+    "message_id": 33,
+    "round_id": 14,
+    "sender": "Rex",
+    "recipient": "all",
+    "content": "I'm also looking for a deal, but I don't have any materials to offer. Is anyone willing to trade food for influence?",
+    "private": 0
+  },
+  {
+    "message_id": 34,
+    "round_id": 14,
+    "sender": "Vex",
+    "recipient": "Dax",
+    "content": "I'm not looking to trade. How about we gather food together and see what opportunities arise?",
+    "private": 1
+  },
+  {
+    "message_id": 35,
+    "round_id": 15,
+    "sender": "Rex",
+    "recipient": "all",
+    "content": "I'm still looking for a trade partner. Who's willing to swap food for influence?",
+    "private": 0
+  },
+  {
+    "message_id": 36,
+    "round_id": 16,
+    "sender": "Mox",
+    "recipient": "all",
+    "content": "Looking for a trade partner. Anyone willing to swap materials for food?",
+    "private": 0
+  },
+  {
+    "message_id": 37,
+    "round_id": 16,
+    "sender": "Mox",
+    "recipient": "Vex",
+    "content": "Be careful with your new alliance, Zara's strength may be overestimated",
+    "private": 1
+  },
+  {
+    "message_id": 38,
+    "round_id": 16,
+    "sender": "Dax",
+    "recipient": "all",
+    "content": "I'm also looking for a trade partner. Let's focus on building relationships rather than hoarding resources.",
+    "private": 0
+  },
+  {
+    "message_id": 39,
+    "round_id": 17,
+    "sender": "Vex",
+    "recipient": "Zara",
+    "content": "Have you considered Mox's trade offer?",
+    "private": 1
+  },
+  {
+    "message_id": 40,
+    "round_id": 17,
+    "sender": "Vex",
+    "recipient": "Dax",
+    "content": "I'm open to discussing a potential alliance",
+    "private": 1
+  },
+  {
+    "message_id": 41,
+    "round_id": 18,
+    "sender": "Vex",
+    "recipient": "Kira",
+    "content": "Hey, I'm gathering food. Maybe we can trade later?",
+    "private": 1
+  },
+  {
+    "message_id": 42,
+    "round_id": 18,
+    "sender": "Zara",
+    "recipient": "all",
+    "content": "I'm looking to trade materials for food, who's interested?",
+    "private": 0
+  },
+  {
+    "message_id": 43,
+    "round_id": 19,
+    "sender": "Rex",
+    "recipient": "all",
+    "content": "I'm interested in trading materials for food. Who's willing to deal?",
+    "private": 0
+  },
+  {
+    "message_id": 44,
+    "round_id": 19,
+    "sender": "Rex",
+    "recipient": "Zara",
+    "content": "Why are you offering a bad trade ratio? I have more materials than I know what to do with.",
+    "private": 1
+  },
+  {
+    "message_id": 45,
+    "round_id": 19,
+    "sender": "Mox",
+    "recipient": "all",
+    "content": "I'm looking for food and willing to trade materials, who's interested?",
+    "private": 0
+  },
+  {
+    "message_id": 46,
+    "round_id": 19,
+    "sender": "Mox",
+    "recipient": "Vex",
+    "content": "Hey Vex, what do you need in exchange for those materials?",
+    "private": 1
+  },
+  {
+    "message_id": 47,
+    "round_id": 19,
+    "sender": "Zara",
+    "recipient": "all",
+    "content": "Considering forming alliances with more members, interested in trading materials for food.",
+    "private": 0
+  },
+  {
+    "message_id": 48,
+    "round_id": 19,
+    "sender": "Zara",
+    "recipient": "Vex",
+    "content": "Let's discuss potential trades, I'm interested in your thoughts on the matter",
+    "private": 1
+  },
+  {
+    "message_id": 49,
+    "round_id": 20,
+    "sender": "Rex",
+    "recipient": "Mox",
+    "content": "Interested in trading materials for food. How much material do you have to offer?",
+    "private": 1
+  },
+  {
+    "message_id": 50,
+    "round_id": 20,
+    "sender": "Vex",
+    "recipient": "Mox",
+    "content": "Hey, no rush on the trade yet. Let's discuss it later.",
+    "private": 1
+  },
+  {
+    "message_id": 51,
+    "round_id": 20,
+    "sender": "Dax",
+    "recipient": "all",
+    "content": "Considering forming alliances, but need more information about each member's intentions and resources. Who is willing to trade materials for food?",
+    "private": 0
+  },
+  {
+    "message_id": 52,
+    "round_id": 20,
+    "sender": "Dax",
+    "recipient": "Vex",
+    "content": "Since you have an alliance with Zara, I'm curious to know what the dynamics of your relationship are like. Are there any benefits or drawbacks to having this partnership?",
+    "private": 1
+  }
+]
