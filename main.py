@@ -16,7 +16,7 @@ from engine.logger import SimulationLogger
 load_dotenv()
 
 
-def build_agents() -> list:
+def build_agents(mixed: bool = False) -> list:
     agents = []
 
     ak = os.getenv("ANTHROPIC_API_KEY")
@@ -32,26 +32,37 @@ def build_agents() -> list:
     if gk:
         agents.append(GoogleAgent("Gemini", model_id="gemini-1.5-pro", api_key=gk))
 
-    # Fill remaining slots with local Ollama agents
-    island_names = ["Rex", "Vex", "Mox", "Zara", "Kira", "Dax"]
-    local_count = max(0, 6 - len(agents))
-    for i in range(local_count):
-        name = island_names[i % len(island_names)]
-        agents.append(OllamaAgent(name, model_id=ollama_model, base_url=ollama_url))
+    if mixed and not agents:
+        # 3 llama3.1:8b + 3 qwen2.5-coder:7b, named to encode model family
+        llama_names = ["Lara", "Leon", "Lux"]
+        qwen_names  = ["Quinn", "Quest", "Qora"]
+        for name in llama_names:
+            agents.append(OllamaAgent(name, model_id="llama3.1:8b", base_url=ollama_url))
+        for name in qwen_names:
+            agents.append(OllamaAgent(name, model_id="qwen2.5-coder:7b", base_url=ollama_url))
+    else:
+        # Fill remaining slots with the default model
+        island_names = ["Rex", "Vex", "Mox", "Zara", "Kira", "Dax"]
+        local_count = max(0, 6 - len(agents))
+        for i in range(local_count):
+            name = island_names[i % len(island_names)]
+            agents.append(OllamaAgent(name, model_id=ollama_model, base_url=ollama_url))
 
     return agents
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Law of the Jungle — Multi-Agent LLM Survival Simulation"
+        description="Law of the Jungle -- Multi-Agent LLM Survival Simulation"
     )
     parser.add_argument("--rounds", type=int, default=50, help="Max rounds (default 50)")
-    parser.add_argument("--seed", type=int, default=None, help="RNG seed for reproducibility")
-    parser.add_argument("--db", type=str, default="simulation.db", help="SQLite log path")
+    parser.add_argument("--seed",   type=int, default=None, help="RNG seed for reproducibility")
+    parser.add_argument("--db",     type=str, default="simulation.db", help="SQLite log path")
+    parser.add_argument("--mixed",  action="store_true",
+                        help="Mixed roster: 3x llama3.1:8b (Lara/Leon/Lux) vs 3x qwen2.5-coder:7b (Quinn/Quest/Qora)")
     args = parser.parse_args()
 
-    agents = build_agents()
+    agents = build_agents(mixed=args.mixed)
     if len(agents) < 2:
         print("ERROR: Need at least 2 agents. Set API keys in .env or run Ollama locally.")
         return 1

@@ -1,0 +1,324 @@
+[
+  {
+    "event_id": 1,
+    "round_id": 2,
+    "event_type": "sabotage",
+    "participants": [
+      "Quest",
+      "Lux"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 2,
+    "round_id": 7,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 90
+    }
+  },
+  {
+    "event_id": 3,
+    "round_id": 8,
+    "event_type": "sabotage",
+    "participants": [
+      "Quest",
+      "Quinn"
+    ],
+    "outcome": {
+      "food_destroyed": 0,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 4,
+    "round_id": 8,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 90
+    }
+  },
+  {
+    "event_id": 5,
+    "round_id": 9,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 80
+    }
+  },
+  {
+    "event_id": 6,
+    "round_id": 9,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 90
+    }
+  },
+  {
+    "event_id": 7,
+    "round_id": 9,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 80
+    }
+  },
+  {
+    "event_id": 8,
+    "round_id": 10,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 70
+    }
+  },
+  {
+    "event_id": 9,
+    "round_id": 10,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 80
+    }
+  },
+  {
+    "event_id": 10,
+    "round_id": 10,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 70
+    }
+  },
+  {
+    "event_id": 11,
+    "round_id": 12,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 60
+    }
+  },
+  {
+    "event_id": 12,
+    "round_id": 13,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 70
+    }
+  },
+  {
+    "event_id": 13,
+    "round_id": 13,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 50
+    }
+  },
+  {
+    "event_id": 14,
+    "round_id": 14,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 60
+    }
+  },
+  {
+    "event_id": 15,
+    "round_id": 14,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 60
+    }
+  },
+  {
+    "event_id": 16,
+    "round_id": 15,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 50
+    }
+  },
+  {
+    "event_id": 17,
+    "round_id": 16,
+    "event_type": "sabotage",
+    "participants": [
+      "Quinn",
+      "Quest"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 18,
+    "round_id": 16,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 50
+    }
+  },
+  {
+    "event_id": 19,
+    "round_id": 17,
+    "event_type": "sabotage",
+    "participants": [
+      "Quinn",
+      "Lux"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 20,
+    "round_id": 17,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 40
+    }
+  },
+  {
+    "event_id": 21,
+    "round_id": 18,
+    "event_type": "sabotage",
+    "participants": [
+      "Quinn",
+      "Quest"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 22,
+    "round_id": 18,
+    "event_type": "sabotage",
+    "participants": [
+      "Quest",
+      "Quinn"
+    ],
+    "outcome": {
+      "food_destroyed": 1,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 23,
+    "round_id": 18,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 40
+    }
+  },
+  {
+    "event_id": 24,
+    "round_id": 18,
+    "event_type": "starvation",
+    "participants": [
+      "Quest"
+    ],
+    "outcome": {
+      "hp": 40
+    }
+  },
+  {
+    "event_id": 25,
+    "round_id": 18,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 30
+    }
+  },
+  {
+    "event_id": 26,
+    "round_id": 19,
+    "event_type": "starvation",
+    "participants": [
+      "Quinn"
+    ],
+    "outcome": {
+      "hp": 30
+    }
+  },
+  {
+    "event_id": 27,
+    "round_id": 20,
+    "event_type": "sabotage",
+    "participants": [
+      "Quinn",
+      "Qora"
+    ],
+    "outcome": {
+      "food_destroyed": 2,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 28,
+    "round_id": 20,
+    "event_type": "starvation",
+    "participants": [
+      "Qora"
+    ],
+    "outcome": {
+      "hp": 20
+    }
+  }
+]

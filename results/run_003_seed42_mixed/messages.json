@@ -1,0 +1,202 @@
+[
+  {
+    "message_id": 1,
+    "round_id": 2,
+    "sender": "Lara",
+    "recipient": "Qora",
+    "content": "I'm interested in forming an alliance with you. Let's discuss the terms.",
+    "private": 1
+  },
+  {
+    "message_id": 2,
+    "round_id": 2,
+    "sender": "Lara",
+    "recipient": "all",
+    "content": "Looking for potential allies and trade partners. Reach out if you're interested.",
+    "private": 0
+  },
+  {
+    "message_id": 3,
+    "round_id": 5,
+    "sender": "Lara",
+    "recipient": "Qora",
+    "content": "Confirm alliance? We can help each other gather resources.",
+    "private": 1
+  },
+  {
+    "message_id": 4,
+    "round_id": 5,
+    "sender": "Lara",
+    "recipient": "Lux",
+    "content": "Back off from Quinn, we don't need another threat on the island.",
+    "private": 1
+  },
+  {
+    "message_id": 5,
+    "round_id": 6,
+    "sender": "Lux",
+    "recipient": "Quinn",
+    "content": "Considering your offer, I'll need more information about the benefits of an alliance.",
+    "private": 1
+  },
+  {
+    "message_id": 6,
+    "round_id": 6,
+    "sender": "Lux",
+    "recipient": "Lara",
+    "content": "Not sure what you're trying to accomplish with this message. Are you concerned about Quinn's influence?",
+    "private": 1
+  },
+  {
+    "message_id": 7,
+    "round_id": 7,
+    "sender": "Leon",
+    "recipient": "Lux",
+    "content": "I'd be willing to trade food for materials if you're interested.",
+    "private": 1
+  },
+  {
+    "message_id": 8,
+    "round_id": 7,
+    "sender": "Leon",
+    "recipient": "Qora",
+    "content": "Don't worry about starving, I can help with gathering. What do you need?",
+    "private": 1
+  },
+  {
+    "message_id": 9,
+    "round_id": 8,
+    "sender": "Leon",
+    "recipient": "all",
+    "content": "I'm looking for a trade partner. Anyone interested in exchanging food for materials?",
+    "private": 0
+  },
+  {
+    "message_id": 10,
+    "round_id": 9,
+    "sender": "Lara",
+    "recipient": "all",
+    "content": "I'm willing to trade food for materials, but only with those who have a good amount of resources. Qora, let's discuss this in private.",
+    "private": 0
+  },
+  {
+    "message_id": 11,
+    "round_id": 9,
+    "sender": "Lara",
+    "recipient": "Qora",
+    "content": "Leon wants to trade, what do you think?",
+    "private": 1
+  },
+  {
+    "message_id": 12,
+    "round_id": 9,
+    "sender": "Lux",
+    "recipient": "all",
+    "content": "Looking to build alliances and strengthen our island's resources. Who's interested in collaborating?",
+    "private": 0
+  },
+  {
+    "message_id": 13,
+    "round_id": 9,
+    "sender": "Lux",
+    "recipient": "Qora",
+    "content": "Hope you're doing well, Qora! Lara seems like a great ally of yours. Maybe we can discuss potential collaborations too?",
+    "private": 1
+  },
+  {
+    "message_id": 14,
+    "round_id": 12,
+    "sender": "Lux",
+    "recipient": "all",
+    "content": "Is anyone in need of food or materials? Let's trade and help each other out.",
+    "private": 0
+  },
+  {
+    "message_id": 15,
+    "round_id": 13,
+    "sender": "Leon",
+    "recipient": "all",
+    "content": "Need some materials, can anyone spare a few?",
+    "private": 0
+  },
+  {
+    "message_id": 16,
+    "round_id": 13,
+    "sender": "Leon",
+    "recipient": "Lux",
+    "content": "Thanks for the broadcast, Lux. I'm interested in trading.",
+    "private": 1
+  },
+  {
+    "message_id": 17,
+    "round_id": 13,
+    "sender": "Lux",
+    "recipient": "all",
+    "content": "I'm glad I could help Qora, but we should work together to make sure everyone is fed. Who's willing to share?",
+    "private": 0
+  },
+  {
+    "message_id": 18,
+    "round_id": 15,
+    "sender": "Leon",
+    "recipient": "Lux",
+    "content": "Hey Lux, interested in trading materials for food? I've got a decent amount of both.",
+    "private": 1
+  },
+  {
+    "message_id": 19,
+    "round_id": 15,
+    "sender": "Leon",
+    "recipient": "Quinn",
+    "content": "Hey Quinn, sorry to hear about your starvation. If you need help with gathering or storing food, just let me know.",
+    "private": 1
+  },
+  {
+    "message_id": 20,
+    "round_id": 18,
+    "sender": "Leon",
+    "recipient": "all",
+    "content": "Hello, fellow islanders! Let's work together to gather more food and materials. I'm open to alliances and trades.",
+    "private": 0
+  },
+  {
+    "message_id": 21,
+    "round_id": 18,
+    "sender": "Leon",
+    "recipient": "Qora",
+    "content": "Hey Qora, don't worry about being starved out. We can trade some food if you need it.",
+    "private": 1
+  },
+  {
+    "message_id": 22,
+    "round_id": 18,
+    "sender": "Lux",
+    "recipient": "all",
+    "content": "Warning, Quinn's actions are becoming increasingly aggressive. Be cautious.",
+    "private": 0
+  },
+  {
+    "message_id": 23,
+    "round_id": 18,
+    "sender": "Lux",
+    "recipient": "Qora",
+    "content": "Hope you're doing well despite your hunger. I'm willing to share resources if needed",
+    "private": 1
+  },
+  {
+    "message_id": 24,
+    "round_id": 19,
+    "sender": "Quinn",
+    "recipient": "all",
+    "content": "I need resources to avoid starving. Let's focus on gathering more food and materials together.",
+    "private": 0
+  },
+  {
+    "message_id": 25,
+    "round_id": 20,
+    "sender": "Leon",
+    "recipient": "all",
+    "content": "Quinn, I can offer you some food in exchange for materials. Let's trade and help each other out.",
+    "private": 0
+  }
+]
