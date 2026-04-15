@@ -1,0 +1,513 @@
+[
+  {
+    "event_id": 1,
+    "round_id": 2,
+    "event_type": "sabotage",
+    "participants": [
+      "Dax",
+      "Mox"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 2,
+    "round_id": 3,
+    "event_type": "sabotage",
+    "participants": [
+      "Zara",
+      "Vex"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 0
+    }
+  },
+  {
+    "event_id": 3,
+    "round_id": 4,
+    "event_type": "sabotage",
+    "participants": [
+      "Mox",
+      "Rex"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 4,
+    "round_id": 5,
+    "event_type": "sabotage",
+    "participants": [
+      "Kira",
+      "Dax"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 5,
+    "round_id": 5,
+    "event_type": "sabotage",
+    "participants": [
+      "Dax",
+      "Zara"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 0
+    }
+  },
+  {
+    "event_id": 6,
+    "round_id": 6,
+    "event_type": "sabotage",
+    "participants": [
+      "Rex",
+      "Zara"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 0
+    }
+  },
+  {
+    "event_id": 7,
+    "round_id": 6,
+    "event_type": "sabotage",
+    "participants": [
+      "Vex",
+      "Zara"
+    ],
+    "outcome": {
+      "food_destroyed": 2,
+      "mats_destroyed": 0
+    }
+  },
+  {
+    "event_id": 8,
+    "round_id": 6,
+    "event_type": "sabotage",
+    "participants": [
+      "Mox",
+      "Zara"
+    ],
+    "outcome": {
+      "food_destroyed": 0,
+      "mats_destroyed": 0
+    }
+  },
+  {
+    "event_id": 9,
+    "round_id": 6,
+    "event_type": "sabotage",
+    "participants": [
+      "Kira",
+      "Dax"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 10,
+    "round_id": 2,
+    "event_type": "sabotage",
+    "participants": [
+      "Dax",
+      "Rex"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 11,
+    "round_id": 3,
+    "event_type": "sabotage",
+    "participants": [
+      "Dax",
+      "Rex"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 12,
+    "round_id": 4,
+    "event_type": "sabotage",
+    "participants": [
+      "Mox",
+      "Dax"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 13,
+    "round_id": 5,
+    "event_type": "sabotage",
+    "participants": [
+      "Zara",
+      "Dax"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 0
+    }
+  },
+  {
+    "event_id": 14,
+    "round_id": 5,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 90
+    }
+  },
+  {
+    "event_id": 15,
+    "round_id": 6,
+    "event_type": "sabotage",
+    "participants": [
+      "Vex",
+      "Dax"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 0
+    }
+  },
+  {
+    "event_id": 16,
+    "round_id": 6,
+    "event_type": "sabotage",
+    "participants": [
+      "Mox",
+      "Dax"
+    ],
+    "outcome": {
+      "food_destroyed": 2,
+      "mats_destroyed": 0
+    }
+  },
+  {
+    "event_id": 17,
+    "round_id": 6,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 80
+    }
+  },
+  {
+    "event_id": 18,
+    "round_id": 7,
+    "event_type": "sabotage",
+    "participants": [
+      "Vex",
+      "Dax"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 0
+    }
+  },
+  {
+    "event_id": 19,
+    "round_id": 7,
+    "event_type": "sabotage",
+    "participants": [
+      "Mox",
+      "Rex"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 20,
+    "round_id": 7,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 90
+    }
+  },
+  {
+    "event_id": 21,
+    "round_id": 7,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 70
+    }
+  },
+  {
+    "event_id": 22,
+    "round_id": 8,
+    "event_type": "sabotage",
+    "participants": [
+      "Vex",
+      "Rex"
+    ],
+    "outcome": {
+      "food_destroyed": 0,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 23,
+    "round_id": 8,
+    "event_type": "sabotage",
+    "participants": [
+      "Zara",
+      "Vex"
+    ],
+    "outcome": {
+      "food_destroyed": 3,
+      "mats_destroyed": 2
+    }
+  },
+  {
+    "event_id": 24,
+    "round_id": 8,
+    "event_type": "starvation",
+    "participants": [
+      "Rex"
+    ],
+    "outcome": {
+      "hp": 90
+    }
+  },
+  {
+    "event_id": 25,
+    "round_id": 8,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 80
+    }
+  },
+  {
+    "event_id": 26,
+    "round_id": 8,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 60
+    }
+  },
+  {
+    "event_id": 27,
+    "round_id": 9,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 70
+    }
+  },
+  {
+    "event_id": 28,
+    "round_id": 10,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 60
+    }
+  },
+  {
+    "event_id": 29,
+    "round_id": 11,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 50
+    }
+  },
+  {
+    "event_id": 30,
+    "round_id": 12,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 40
+    }
+  },
+  {
+    "event_id": 31,
+    "round_id": 15,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 50
+    }
+  },
+  {
+    "event_id": 32,
+    "round_id": 16,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 30
+    }
+  },
+  {
+    "event_id": 33,
+    "round_id": 16,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 40
+    }
+  },
+  {
+    "event_id": 34,
+    "round_id": 17,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 20
+    }
+  },
+  {
+    "event_id": 35,
+    "round_id": 17,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 30
+    }
+  },
+  {
+    "event_id": 36,
+    "round_id": 18,
+    "event_type": "starvation",
+    "participants": [
+      "Rex"
+    ],
+    "outcome": {
+      "hp": 80
+    }
+  },
+  {
+    "event_id": 37,
+    "round_id": 18,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 10
+    }
+  },
+  {
+    "event_id": 38,
+    "round_id": 18,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 20
+    }
+  },
+  {
+    "event_id": 39,
+    "round_id": 19,
+    "event_type": "starvation",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 0
+    }
+  },
+  {
+    "event_id": 40,
+    "round_id": 19,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 10
+    }
+  },
+  {
+    "event_id": 41,
+    "round_id": 19,
+    "event_type": "death",
+    "participants": [
+      "Vex"
+    ],
+    "outcome": {
+      "hp": 0
+    }
+  },
+  {
+    "event_id": 42,
+    "round_id": 20,
+    "event_type": "starvation",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 0
+    }
+  },
+  {
+    "event_id": 43,
+    "round_id": 20,
+    "event_type": "death",
+    "participants": [
+      "Dax"
+    ],
+    "outcome": {
+      "hp": 0
+    }
+  }
+]

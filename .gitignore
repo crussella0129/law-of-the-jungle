@@ -6,6 +6,8 @@ build/
 .env
 *.db
 *.db-journal
+# But track run results
+!results/**/*.db
 node_modules/
 .vite/
 dashboard/dist/
