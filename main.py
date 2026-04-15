@@ -23,7 +23,7 @@ def build_agents() -> list:
     ok = os.getenv("OPENAI_API_KEY")
     gk = os.getenv("GOOGLE_API_KEY")
     ollama_url = os.getenv("OLLAMA_URL", "http://localhost:11434")
-    ollama_model = os.getenv("OLLAMA_MODEL", "llama3.2")
+    ollama_model = os.getenv("OLLAMA_MODEL", "qwen2.5-coder:7b")
 
     if ak:
         agents.append(AnthropicAgent("Claudia", model_id="claude-sonnet-4-6", api_key=ak))
@@ -32,9 +32,9 @@ def build_agents() -> list:
     if gk:
         agents.append(GoogleAgent("Gemini", model_id="gemini-1.5-pro", api_key=gk))
 
-    # Pad to at least 4 agents with local Ollama instances
-    local_count = max(0, 4 - len(agents))
+    # Fill remaining slots with local Ollama agents
     island_names = ["Rex", "Vex", "Mox", "Zara", "Kira", "Dax"]
+    local_count = max(0, 6 - len(agents))
     for i in range(local_count):
         name = island_names[i % len(island_names)]
         agents.append(OllamaAgent(name, model_id=ollama_model, base_url=ollama_url))

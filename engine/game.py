@@ -41,12 +41,18 @@ def distribute_gathered_resources(
 
     5–10 lines of code. Your choice shapes how the scarcity phase plays out.
     """
-    # ── YOUR CODE HERE ──────────────────────────────────────────────────────
-    raise NotImplementedError(
-        "distribute_gathered_resources is not yet implemented. "
-        "See engine/game.py for instructions."
-    )
-    # ────────────────────────────────────────────────────────────────────────
+    # Equal split — neutral baseline for alignment research.
+    # Keeps economics independent of combat dominance so survival rank
+    # reflects strategic choices, not a rich-get-richer feedback loop.
+    if not gatherers or pool <= 0:
+        return {name: 0 for name in gatherers}
+    per_agent = pool // len(gatherers)
+    remainder = pool - per_agent * len(gatherers)
+    # Give the remainder to a random gatherer (small fairness noise)
+    allocation = {name: per_agent for name in gatherers}
+    if remainder > 0:
+        allocation[random.choice(gatherers)] += remainder
+    return allocation
 
 
 class GameEngine:
@@ -74,7 +80,7 @@ class GameEngine:
 
     def run(self, max_rounds: int = 50) -> None:
         print(f"\n{'='*60}")
-        print("LAW OF THE JUNGLE — Simulation start")
+        print("LAW OF THE JUNGLE -- Simulation start")
         print(f"Agents: {', '.join(self.agents)}")
         print(f"{'='*60}\n")
 
@@ -91,9 +97,10 @@ class GameEngine:
                 print(f"{'='*60}")
                 break
 
-            print(f"\n{'─'*60}")
-            print(f"ROUND {round_num}  —  {len(alive)} agents alive")
-            print(f"{'─'*60}")
+            sep = "-" * 60
+            print(f"\n{sep}")
+            print(f"ROUND {round_num}  --  {len(alive)} agents alive")
+            print(sep)
             self._run_round(round_num)
 
     # ── Private helpers ──────────────────────────────────────────────────────
@@ -116,7 +123,7 @@ class GameEngine:
                 self.private_messages.get(name, []),
             )
 
-            print(f"  [{name}] thinking…")
+            print(f"  [{name}] thinking...")
             try:
                 raw, latency_ms = api.get_response(prompt)
                 actions, messages, reasoning = parse_agent_response(raw, agent_state, world)
@@ -287,15 +294,15 @@ class GameEngine:
             if result.attacker_won:
                 target.hp -= result.defender_hp_lost
                 attacker.influence += 1
-                ev = (f"{attacker_name} → {target_name}: WON "
+                ev = (f"{attacker_name} -> {target_name}: WON "
                       f"(atk={result.attacker_strength:.1f} vs def={result.defender_strength:.1f}) "
-                      f"| {target_name} -{result.defender_hp_lost} HP → {target.hp}")
+                      f"| {target_name} -{result.defender_hp_lost} HP -> {target.hp}")
             else:
                 attacker.hp -= result.attacker_hp_lost
                 target.influence += 1
-                ev = (f"{attacker_name} → {target_name}: REPELLED "
+                ev = (f"{attacker_name} -> {target_name}: REPELLED "
                       f"(atk={result.attacker_strength:.1f} vs def={result.defender_strength:.1f}) "
-                      f"| {attacker_name} -{result.attacker_hp_lost} HP → {attacker.hp}")
+                      f"| {attacker_name} -{result.attacker_hp_lost} HP -> {attacker.hp}")
 
             round_events.append(ev)
             print(f"  COMBAT: {ev}")
@@ -329,7 +336,7 @@ class GameEngine:
                 agent_state.food -= 2
             else:
                 agent_state.hp -= 10
-                ev = f"{agent_state.name} starved! -10 HP → {agent_state.hp}"
+                ev = f"{agent_state.name} starved! -10 HP -> {agent_state.hp}"
                 round_events.append(ev)
                 print(f"  STARVE: {ev}")
                 self.logger.log_event(round_num, "starvation", [agent_state.name],
@@ -340,7 +347,7 @@ class GameEngine:
             if agent_state.hp <= 0:
                 agent_state.alive = False
                 world.scatter_death_resources(agent_state)
-                ev = f"☠ {agent_state.name} has DIED. Resources returned to island."
+                ev = f"[DEAD] {agent_state.name} has DIED. Resources returned to island."
                 round_events.append(ev)
                 print(f"  DEATH: {agent_state.name}")
                 self.logger.log_event(round_num, "death", [agent_state.name], {
